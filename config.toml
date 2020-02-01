@@ -24,7 +24,7 @@ paginate = 2
 [params]
     appendSiteTitle = true # Append site title to title tag on every page. Default false
     #favicon = 'img/favicon.ico' # Add favicon, default empty
-    subtitle = "Example of Subtitle"
+    subtitle = "Extreme Severe Storm and Disaster Mitigation Strategy"
 
     dateFormat = "02.01.2006" # Format dates with Go's time formatting
     showDate = false # true|false: Show date on summaries. This is a global setting. If the date should be shown, you have to add a "date" parameter to the content files, otherwise the default value will be used, which is something you don't want.
@@ -37,7 +37,7 @@ paginate = 2
 [params.navbar]
     style = "header" # Navigation bar style, values "fixed-top" or "header", default is fixed-top 
     
-    colorScheme = "navbar-dark" # navbar-light, navbar-dark
+    colorScheme = "navbar-light" # navbar-light, navbar-dark
     
     bgScheme = "bg-primary" # see Bootstrap docs, bg.* utilities https://getbootstrap.com/docs/4.1/utilities/colors/
     
@@ -91,8 +91,8 @@ paginate = 2
     altText = 'alt text for header image' # Set alt text for header image, default empty
     displayHeaderText = true # display the title and subtitle - yes or no?
     titleOnImage = true # true|false, default false. Display title and subtitle as overlay in the foreground of the image. It is only possible to set the title as image overlay if an image is available. If no image is configured, the theme will do a fallback to non-overlay, i.e. title and subtitle will be displayed above the main navigation. 
-    fontColorTitle = '#073642' # For all colors, please use #rrggbb format with # and 6 characters
-    fontColorSubtitle = '#333333'
+    fontColorTitle = '#BB3642' # For all colors, please use #rrggbb format with # and 6 characters
+    fontColorSubtitle = '#88BB33'
     overlayAlignment = 'lt' # lt = left/top, mt = middle/top, rt = right/top, lb = left/bottom, mb = middle/bottom, rb = right/bottom
     overlayDistanceVertical = '20' # Dependent on the overlayAlignment option, this option is used to modify the vertical distance between the margin and the title/subtitle. This allows to place the title and subtitle on nearly any place related to the header image. 
     overlayDistanceHorizontal = '20' # The same as above, but for horizontal distance. 
@@ -209,11 +209,11 @@ paginate = 2
  
   [[params.sidebar.demoColumn]]
     title = 'About'
-    text = '<p class="mb-0">Etiam porta <em>sem malesuada magna</em> mollis euismod. Cras mattis consectetur purus sit amet fermentum. Aenean lacinia bibendum nulla sed consectetur.</p>'
+    text = '<p class="mb-0">This is hydrometeorological project for mitigation of disasters caused by extreme severe storms developing over Asia.</p>'
 
-    [[params.sidebar.demoColumn]]
-    title = 'Example Content'
-    text = 'You can place everything you want in this area. Just add HTML or Markdown files into a folder named "sections/sidebar" in your content folder and declare the folder as "headless". This is an example of modifying the style with an individual "sidebar_item.html" partial. '
+  [[params.sidebar.demoColumn]]
+    title = 'Links'
+    text = '[Disaster Prevention Research Institute, Kyoto University]()<br>[Institute of Education, Research and Regional Cooperation for Crisis Management Shikoku (IECMS), Kagawa University](https://www.kagawa-u.ac.jp/iecms/)<br>[Sumitomo Foundation](http://www.sumitomo.or.jp/e/index.html). '
 
 
 

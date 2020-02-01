@@ -1,10 +1,8 @@
 ---
-title: "My First Post"
-date: 2018-11-04T21:52:00+01:00
+title: "Webpage is Open"
+date: 2020-01-01T08:00:00+09:00
 tags: ["Text","Blog","Post","First Post"]
-
 ---
 
-# Test
+We opened the Extreme Severe Storm and Disaster Mitigation Strategy (ESSDM)S project homepage now!
 
-## Another test

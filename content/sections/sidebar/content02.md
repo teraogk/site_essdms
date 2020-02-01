@@ -1,4 +1,13 @@
 ---
-title: "Example content"
+title: "Links"
 ---
-You can place everything you want in this area. Just add HTML or Markdown files into a folder named "sections/sidebar" in your content folder and declare the folder as "headless". This is an example of modifying the style with an individual "sidebar_item.html" partial. 
+
+##### Research Institutions
+[Disaster Prevention Research Institute, Kyoto University](https://www.dpri.kyoto-u.ac.jp/en/)
+
+[Institute of Education, Research and Regional Cooperation for Crisis Management Shikoku (IECMS), Kagawa University](https://www.kagawa-u.ac.jp/iecms/)
+
+[Sumitomo Foundation](http://www.sumitomo.or.jp/e/index.html)
+
+##### International Research Projects
+[AsiaPEX](http://iceds.cc.kagawa-u.ac.jp/asiapex)
